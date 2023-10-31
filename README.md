@@ -12,6 +12,18 @@ https://github.com/Saranragu/iOSCodeTest/assets/93770418/8e29df50-6e24-4c66-b3b0
 
 
 
+Architecture
+MVVM Using Combine
+
+![image](https://github.com/Saranragu/iOSCodeTest/assets/93770418/cd190b03-a426-4658-98c7-a67b837782db)
+
+
+
+
+
+
+
+
 Unit Testing and code coverage
 
 <img width="1143" alt="Code_coverage" src="https://github.com/Saranragu/iOSCodeTest/assets/93770418/761c9e97-af80-4ed1-8c4f-f2166321de36">
