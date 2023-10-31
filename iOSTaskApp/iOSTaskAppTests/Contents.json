@@ -1,0 +1,185 @@
+{
+    "articles": [
+        {
+            "author": "Annika Kim Constantino",
+            "url": "https://www.cnbc.com/2023/10/29/pharmacy-staff-from-walgreens-chains-like-cvs-to-walk-out-again.html",
+            "source": "CNBC",
+            "title": "Some pharmacy staff from Walgreens, other chains are walking out again — here's what you need to know - CNBC",
+            "description": "The walkouts are the latest pushback against what pharmacy staff claim are harsh and unsafe working conditions that put both employees and patients at risk.",
+            "image": "https://image.cnbcfm.com/api/v1/image/107315641-16970631262023-10-11t222159z_685549174_rc2pn2arcf2l_rtrmadp_0_health-coronavirus-usa-vaccines.jpeg?v=1698414259&w=1920&h=1080",
+            "date": "2023-10-29T12:00:02Z"
+        },
+        {
+            "author": null,
+            "url": "https://www.espn.com/nhl/story/_/id/38770208/ex-nhl-player-adam-johnson-29-dies-freak-accident",
+            "source": "ESPN",
+            "title": "Ex-NHL player Adam Johnson, 29, dies after 'freak accident' - ESPN - ESPN",
+            "description": "Former NHL player Adam Johnson died after a \"freak accident\" during his English team's game Saturday. He was 29.",
+            "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1029%2Fr1245325_1296x729_16%2D9.jpg",
+            "date": "2023-10-29T11:57:00Z"
+        },
+        {
+            "author": null,
+            "url": "https://www.ndtv.com/world-news/israel-pm-benjamin-netanyahu-takes-jab-at-intel-chiefs-over-hamas-attack-later-apologises-4525355",
+            "source": "NDTV News",
+            "title": "Israel PM Takes Jab At Intel Chiefs Over Hamas Attack, Later Apologises - NDTV",
+            "description": "Israeli Prime Minister Benjamin Netanyahu on Sunday took a jab at his intelligence chiefs on the X platform, saying they never warned him Hamas was planning its wide-scale attack on Oct. 7, but later retracted his comments and issued an apology.",
+            "image": "https://c.ndtvimg.com/2023-07/hg1mlvo_netanyahu-israel--pm_625x300_24_July_23.jpg",
+            "date": "2023-10-29T11:34:26Z"
+        },
+        {
+            "author": "Guy Chazan, Heba Saleh",
+            "url": "https://www.ft.com/content/fb7f089f-9056-43fe-b8b5-4b4cd9b55162",
+            "source": "Financial Times",
+            "title": "Israeli forces 'gradually expand' ground operations in Gaza for second day - Financial Times",
+            "description": "Netanyahu speaks of ‘long and hard’ war as UN warns of civil disorder in besieged enclave",
+            "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F52a3ae9c-93d4-43a5-9d64-0bace4c2fd3e.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "date": "2023-10-29T11:25:32Z"
+        },
+        {
+            "author": "Sasha Pezenik, Josh Margolin",
+            "url": "https://abcnews.go.com/US/alleged-maine-gunman-buy-silencer-months-lewiston-shootings/story?id=104453990",
+            "source": "ABC News",
+            "title": "Alleged Maine gunman tried to buy a silencer months before Lewiston shootings - ABC News",
+            "description": "The try failed due to a \"self-incriminating\" answer on a form, store owner said.",
+            "image": "https://i.abcnewsfe.com/a/7b787d68-9ed7-4a20-9ab6-3379e4cfc6f4/lewiston-pol_hpMain_20231029-005957_16x9.jpg?w=992",
+            "date": "2023-10-29T11:02:34Z"
+        },
+        {
+            "author": null,
+            "url": "https://www.politico.com/news/2023/10/29/nikki-haley-breakout-2024-00124063",
+            "source": "Politico",
+            "title": "Nikki Haley's breakout jolts the 2024 GOP undercard race - POLITICO - POLITICO",
+            "description": "The former South Carolina governor is the reason Ron DeSantis can’t call 2024 a “two-man race” anymore.",
+            "image": "https://static.politico.com/9f/6e/671a24c44f84bdcdc39ba554da04/https-delivery-gettyimages.com/downloads/1732222441",
+            "date": "2023-10-29T11:00:00Z"
+        },
+        {
+            "author": "Julia Manchester",
+            "url": "https://thehill.com/policy/healthcare/4279889-mike-johnson-2024-democrats-election-denier-abortion/",
+            "source": "The Hill",
+            "title": "Democrats make Speaker Mike Johnson their new 2024 boogeyman - The Hill",
+            "description": "Democrats are seeking to make new Speaker Mike Johnson (R-La.) a boogeyman going into next year’s general election, citing his conservative voting record in the House.  Following Johnson’s election Wednesday, President Biden’s reelection campaign blasted out …",
+            "image": "https://thehill.com/wp-content/uploads/sites/2/2023/10/johnsonmike_102623gn01_w.jpg?w=1280",
+            "date": "2023-10-29T11:00:00Z"
+        },
+        {
+            "author": "Axios",
+            "url": "https://www.axios.com/2023/10/28/stellantis-uaw-strike-tentative-deal",
+            "source": "Axios",
+            "title": "UAW reaches tentative deal with Stellantis to end strike - Axios",
+            "description": null,
+            "image": null,
+            "date": "2023-10-29T10:40:23Z"
+        },
+        {
+            "author": null,
+            "url": "https://www.youtube.com/watch?v=NLIFAuqMCWc",
+            "source": "YouTube",
+            "title": "Effects of ‘war and siege’ on show as Gazans break into UN aid warehouses - Al Jazeera English",
+            "description": null,
+            "image": null,
+            "date": "2023-10-29T10:29:47Z"
+        },
+        {
+            "author": "",
+            "url": "https://www.cbssports.com/nfl/news/priscos-week-8-nfl-picks-cowboys-handle-rams-after-bye-lions-bounce-back-vs-raiders-on-monday-night/",
+            "source": "CBS Sports",
+            "title": "Prisco's Week 8 NFL picks: Cowboys handle Rams after bye; Lions bounce back vs. Raiders on Monday night - CBS Sports",
+            "description": "Pete Prisco shares all his Week 8 picks, including the Patriots keeping it close in Miami",
+            "image": "https://sportshub.cbsistatic.com/i/r/2023/10/17/ae9728dd-e3ea-4031-afc1-ccba436f5edb/thumbnail/1200x675/8de5f47f7e6507456d5ca3257e72683c/usatsi-dallas-cowboys.jpg",
+            "date": "2023-10-29T10:00:00Z"
+        },
+        {
+            "author": "FOX 13 News",
+            "url": "https://www.fox13news.com/news/two-killed-multiple-injured-in-ybor-city-shooting",
+            "source": "FOX 13 Tampa Bay",
+            "title": "Two killed, eighteen injured in Ybor City shooting - FOX 13 Tampa",
+            "description": "Tampa police are responding to a shooting in the 1600 block of E. 7th Ave in Ybor City that left two people dead and eighteen injured. One person has turned them self in. Police are asking if anyone has more information or video from the scene to call their n…",
+            "image": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2019/09/1280/720/84087_HILLSBOROUGH_COUNTY_WEBSITE-MAP_001_1437591366766_53057_ver1.0.jpg?ve=1&tl=1",
+            "date": "2023-10-29T09:50:36Z"
+        },
+        {
+            "author": null,
+            "url": "https://www.youtube.com/watch?v=IoNgccPW_c4",
+            "source": "YouTube",
+            "title": "“Francis Ngannou is UNCROWNED HW CHAMPION!” Spencer Fearon on Tyson Fury CONTROVERSIAL WIN - Seconds Out",
+            "description": "To buy Tickets for the Lakeside 2023 World Championships starts 2nd December 2023 click http://bit.ly/494qKHp . To obtain an exclusive 10% discount type prom...",
+            "image": "https://i.ytimg.com/vi/IoNgccPW_c4/maxresdefault.jpg",
+            "date": "2023-10-29T09:01:37Z"
+        },
+        {
+            "author": "Peter Van Sant",
+            "url": "https://www.cbsnews.com/news/florida-killer-clown-case-sheila-keen-warren-marlene-warren-murder-48-hours/",
+            "source": "CBS News",
+            "title": "Marlene Warren murder: Florida \"killer clown\" case ends with unexpected twist after three decades - CBS News",
+            "description": "The 1990 murder of Marlene Warren, shot by someone dressed as a clown, haunted the public and investigators as the case went unsolved for more than 30 years.",
+            "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2018/04/22/75f57ef3-9e8a-4b25-ad2d-c6a3d23d5cd7/thumbnail/1200x630/124c7730e8d9d7c17eab5217568157d3/marlene-warren.jpg?v=5799c2de91a486f8a37c0b0f0daf468a",
+            "date": "2023-10-29T06:27:00Z"
+        },
+        {
+            "author": "Tyler Dragon",
+            "url": "https://www.usatoday.com/story/sports/ncaaf/2023/10/29/colorado-shilo-sanders-ejected-big-hit-ucla/71369267007/",
+            "source": "USA Today",
+            "title": "Colorado DB Shilo Sanders ejected after big hit in loss to UCLA - USA TODAY",
+            "description": "Shilo Sanders, the son of Colorado’s head coach and Pro Football Hall of Famer Deion Sanders, was ejected for a hit against UCLA.",
+            "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/29/USAT/71370227007-shilo-sanders.JPG?crop=4052,2279,x0,y211&width=3200&height=1800&format=pjpg&auto=webp",
+            "date": "2023-10-29T04:38:21Z"
+        },
+        {
+            "author": "Jesse Rogers",
+            "url": "https://www.espn.com/mlb/story/_/id/38768527/merrill-kelly-silences-rangers-bats-d-backs-roll-game-2-world-series",
+            "source": "ESPN",
+            "title": "Merrill Kelly silences Rangers bats as D-backs roll in Game 2 of World Series - ESPN - ESPN",
+            "description": "Merrill Kelly pitched three-hit ball, striking out nine and allowing just one run in a 9-1 win over the Rangers as the Diamondbacks evened the World Series at 1-1 on Saturday night.",
+            "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1029%2Fr1245268_1296x729_16%2D9.jpg",
+            "date": "2023-10-29T04:21:00Z"
+        },
+        {
+            "author": "Quetzalli Nicte-Ha, Jose Cortes",
+            "url": "https://www.reuters.com/business/environment/death-toll-mexico-devastating-hurricane-otis-rises-39-2023-10-28/",
+            "source": "Reuters",
+            "title": "Mexican president blasts critics after deadly hurricane - Reuters",
+            "description": "The death toll from a devastating hurricane this week in the Mexican beach resort of Acapulco has risen to 39, the government said on Saturday, as President Andres Manuel Lopez Obrador accused his opponents of exaggerating the scale of the disaster.",
+            "image": "https://www.reuters.com/resizer/sDZHF5PSGL7dktrw11TwqkZ2Dc0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N3FKPWZCVBOT3A5AMPDXYG5FTE.jpg",
+            "date": "2023-10-29T03:45:00Z"
+        },
+        {
+            "author": null,
+            "url": "https://removed.com",
+            "source": "[Removed]",
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "image": null,
+            "date": "1970-01-01T00:00:00Z"
+        },
+        {
+            "author": "Anthony Faiola, Stefano Pitrelli",
+            "url": "https://www.washingtonpost.com/world/2023/10/28/vatican-synod-same-sex-unions/",
+            "source": "The Washington Post",
+            "title": "Vatican synod ends with divide over women deacons and LGBTQ+ - The Washington Post",
+            "description": "The most contentious topic at the month-long synod was how and whether to welcome LGBTQ+ Catholics.",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UK6QHNNTOTIO5D2IAZ4FWKD6PI_size-normalized.jpg&w=1440",
+            "date": "2023-10-29T01:28:00Z"
+        },
+        {
+            "author": "Neeraj Dhankher",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/love-and-relationship-horoscope-for-october-29-2023-101698513466210.html",
+            "source": "Hindustan Times",
+            "title": "Love and Relationship Horoscope for October 29, 2023 - Hindustan Times",
+            "description": "Daily Horoscope October 29, 2023: Numerous surprises are awaiting you today. Find love daily astrological prediction for all sun signs for October 29. | Horoscope",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/10/28/1600x900/7b21d792-68f0-11ee-9818-16e4f5555a84_1697133720801_1698514783696.jpg",
+            "date": "2023-10-29T00:30:10Z"
+        },
+        {
+            "author": "Gabriella Borter",
+            "url": "https://www.reuters.com/world/us/us-army-reservist-suspected-lewiston-maine-shootings-found-dead-likely-suicide-2023-10-28/",
+            "source": "Reuters",
+            "title": "Maine shooting suspect found dead in cargo trailer, motive still a mystery - Reuters",
+            "description": "The U.S. Army reservist who sprayed a bowling alley and bar with gunfire this week in Lewiston, Maine, killing 18 people, took his own life inside a cargo trailer parked on the lot of a recycling plant where he once worked, police said on Saturday.",
+            "image": "https://www.reuters.com/resizer/MxaLwqDONmqeQyg46TWoT_eZTsI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJCVNPK3QBIQ7LGVEFGXBATHA4.jpg",
+            "date": "2023-10-29T00:13:00Z"
+        }
+    ]
+}
+
