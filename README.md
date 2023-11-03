@@ -25,5 +25,5 @@ MVVM Using Combine
 
 
 Unit Testing and code coverage
+<img width="1063" alt="Code_coverage" src="https://github.com/Saranragu/iOSCodeTest/assets/93770418/09343eac-a29e-446e-aba2-1ebf34038126">
 
-<img width="1143" alt="Code_coverage" src="https://github.com/Saranragu/iOSCodeTest/assets/93770418/761c9e97-af80-4ed1-8c4f-f2166321de36">
